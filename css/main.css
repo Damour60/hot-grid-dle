@@ -47,5 +47,5 @@ figcaption {
   bottom: .5rem;
   color: #fff;
   border-radius: 4px;
-  background-color: #555;
+  background-color: rgba(0, 0, 0, .3);
 }
