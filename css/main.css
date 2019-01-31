@@ -37,9 +37,9 @@ p {
   position: absolute;
   left: 0;
   width: 100%;
+  color: #fff;
 }
 
-.img3,
-.p3 {
+.img3 {
   display: none;
 }
